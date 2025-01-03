@@ -1,4 +1,23 @@
 {
   "name": "AwesomeProject",
-  "displayName": "AwesomeProject"
+  "displayName": "AwesomeProject",
+  "extra": {
+    "eas": {
+      "projectId": "941537c6-14cb-45c7-9d1a-4efb5232d504"
+    }
+  },
+  "runtimeVersion": "1.1.1",
+  "updates": {
+    "enabled": true,
+    "url": "https://u.expo.dev/941537c6-14cb-45c7-9d1a-4efb5232d504",
+    "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0,
+      "checkOnError": "ON_ERROR_RECOVERY", 
+    "runtimeVersion": {
+      "policy": "nativeVersion"
+    }
+  },
+  "android": {},
+  "ios": {},
+  "owner": "kirankumar1994"
 }

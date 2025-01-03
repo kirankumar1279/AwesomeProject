@@ -1,4 +1,4 @@
-package com.awesomeproject
+package com.superjexpo
 import expo.modules.ReactActivityDelegateWrapper
 
 import com.facebook.react.ReactActivity
